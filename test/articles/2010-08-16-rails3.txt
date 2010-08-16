@@ -1,0 +1,5 @@
+title: Rails3 with Mongoid ORM
+date: 08/16/2010
+
+_Recently I have been trying to wrap my head around NoSQL databases, specifically MongoDB. And since Rails is mainly what I use to build web apps, I thought I'd check out one of the MongoDB ORM libraries.  The one I chose was Mongoid.  To install the mongoid gem, do the usual [sudo ] gem install mongoid, and since I have been using rvm for Rails 3 development, you can leave off the "sudo".  There is a nice tutorial of Rails 3, Mongoid, and Devise at http://github.com/fortuity/rails3-mongoid-devise.  This repository is not only an excellent tutorial that will get you well on your way to building a cool web app with Rails 3 and MongoDB.  
+
